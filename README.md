@@ -1,2 +1,41 @@
-# node-loadtest
-Benchmark application to execute a bunch of requests to test API'S
+# Node LoadTest
+Benchmark application to execute a bunch of requests to test API'S.
+
+### Dependencies
+* Docker
+* Docker Compose
+
+### Project Dependencies
+* loadtest
+
+### Project Dev Dependencies
+* nodemon
+* tsx
+
+
+## Run project
+
+To run locally:
+
+ ```bash
+  npm run start:dev
+```
+
+To run via docker in dev environment:
+
+ ```bash
+  npm run start:docker
+```
+
+## License
+
+This application is available under the
+[MIT license](https://opensource.org/licenses/MIT).
+
+
+
+
+
+
+
+  

@@ -15,6 +15,12 @@ Benchmark application to execute a bunch of requests to test API'S.
 
 ## Run project
 
+First of all, install dependencies:
+
+```bash
+  npm install
+```
+
 To run locally:
 
  ```bash
